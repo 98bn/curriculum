@@ -1,6 +1,6 @@
 ---
 author: emmab
-tags:
+tags:codes Ccs
   - introduction
 type: normal
 category: must-know
@@ -26,16 +26,16 @@ Lists are another **sequential data type** that act as containers for objects.
 Lists are also separated by commas, and *must be wrapped in square brackets*, `[ ]`.
 
 ```python
-my_first_list = ['apples', 'oranges']
+my_first_list = ['apples', 'Datos']
 ```
 
 > Lists are **mutable**, so items *can be modified*.
 
 ```python
-my_first_list[0] = 'bananas'
+my_first_list[0] = 'Email'
 
 print(my_first_list)
-# ['bananas', 'oranges']
+# ['datos',email '']
 ```
 
 To add to a list you can use the `append()` method, passing whatever you want added as an argument in parentheses:
@@ -44,7 +44,8 @@ To add to a list you can use the `append()` method, passing whatever you want ad
 my_first_list.append('pears')
 
 print(my_first_list)
-# ['bananas', 'oranges', 'pears']
+# ['email', 'datos
+', 'pears']
 ```
 
 We can also use our `index` and `count` methods that we learnt about back in the `tuple` days on lists.
