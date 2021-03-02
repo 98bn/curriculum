@@ -2,7 +2,7 @@
 author: stefkn
 type: normal
 category: must-know
-links:
+links:Datos
   - >-
     [Python
     slice()](https://www.programiz.com/python-programming/methods/built-in/slice){website}
